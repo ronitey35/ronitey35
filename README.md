@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ronit Sharma</h1>
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<h1 align="center">Hi 👋, I'm Ronit Adhikari</h1>
+<h3 align="center">A passionate FrontEnd developer from Nepal</h3>
 
 
 <img  align="right" height="500px"  src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" >
 
 - 🔭 I’m currently working on Ecommerce Website
 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Typescript.
 
 - 👨‍💻 All of my projects are available at [github.com/flashey35](github.com/flashey35)
 
 - 💬 Ask me about **React, Typescript, NodeJS, MongoDB, Firebase, NextJS, ChakraUI**
 
-- 📫 How to reach me **learnwithronit@gmail.com**
+- 📫 How to reach me **ronitadhikari98@gmail.com**
 
 - ⚡ Fun fact **Do you think this is a place where you can find fact**
 
