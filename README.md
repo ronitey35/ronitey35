@@ -16,13 +16,6 @@
 
 - ⚡ Fun fact **Do you think this is a place where you can find fact**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/bibekjodd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bibekjodd" height="30" width="40" /></a>
-<a href="https://twitter.com/bibekjodd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bibekjodd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bibekjodd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibekjodd" height="30" width="40" /></a>
-<a href="https://fb.com/bibekbhattaraionline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bibekbhattaraionline" height="30" width="40" /></a>
-<a href="https://instagram.com/bibekjodd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bibekjodd" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
