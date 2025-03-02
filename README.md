@@ -43,22 +43,6 @@
   
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flashey35&show_icons=true&theme=tokyonight&hide_border=true" alt="Ronit's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flashey35&layout=compact&theme=tokyonight&hide_border=true" alt="Ronit's Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flashey35&theme=tokyonight&hide_border=true" alt="Ronit's GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=flashey35&theme=nord&no-frame=true&no-bg=true&margin-w=4" alt="Ronit's GitHub Trophies" />
-</div>
-
 ## 🔗 Connect With Me
 <div align="center">
   <a href="mailto:ronitadhikari98@gmail.com">
